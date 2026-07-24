@@ -1,0 +1,14 @@
+Dataset Name:
+AI City Challenge Dataset
+
+Research Purpose:
+This dataset is used for vehicle detection and traffic analysis in urban environments.
+
+Data Type:
+Traffic surveillance video data.
+
+Model Usage:
+The dataset will be used to train and evaluate the YOLOv8 object detection model.
+
+Application:
+AI-based adaptive traffic signal timing optimization.
